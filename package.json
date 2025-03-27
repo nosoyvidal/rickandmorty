@@ -1,8 +1,9 @@
 {
-  "name": "rick-and-morty",
+  "name": "rickandmorty",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://nosoyvidal.github.io/rickandmorty",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
